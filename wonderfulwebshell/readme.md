@@ -10,4 +10,4 @@ http://path/to/your/wordpress/site/wp-content/plugins/mylovelywebshell/mylovelwe
 ```
 
 # Disclaimer
-Please do NOT attempt to use this tool to attack any computer unless you have been given expressed written permission from the system owner.  In other words, be a white hat, be a force for good!
+Please do NOT attempt to use this tool to attack any computer unless you have been given expressed written permission from the system owner.  In other words, be a white hat, be a force for good, stay out of jail!
