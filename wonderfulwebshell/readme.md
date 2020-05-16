@@ -6,7 +6,7 @@ If you manage to gain control of a Wordpress admin console, a webshell will help
 - You can access the webshell as something similar to the following:
 
 ```
-http://path/to/your/wordpress/site/wp-content/plugins/mylovelywebshell/mylovelwebshell.php
+http://path/to/your/wordpress/site/wp-content/plugins/mylovelywebshell/mylovelywebshell.php
 ```
 
 # Disclaimer
